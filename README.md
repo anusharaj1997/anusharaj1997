@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anusha Raj  
+# Hi there! 👋 I'm Anusha Nagaraja  
 **Pronouns:** She/Her  
 
 ## 🚀 About Me  
@@ -21,7 +21,7 @@ I’m a highly motivated **Information Science graduate student** at the **Unive
 - Innovative applications in **data science** to tackle real-world problems  
 
 ## 📫 How to Reach Me  
-- **Email:** anusharaj1997@gmail.com  
+- **Email:** anusharaj.ns@gmail.com  
 - **LinkedIn:** [Anusha Raj](https://www.linkedin.com/in/anusharaj1997/)  
 - **GitHub:** You're already here! 😊  
 
